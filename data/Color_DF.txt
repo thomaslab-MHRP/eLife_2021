@@ -1,0 +1,6 @@
+Name	Timepoint	ADCP
+Day_3_ADCP_High	Day 3	High
+Day_3_ADCP_Low	Day 3	Low
+Week_2_ADCP_High	Week 2	High
+Week_2_ADCP_Low	Week 2	Low
+
